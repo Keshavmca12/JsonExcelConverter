@@ -1,0 +1,10 @@
+{
+	"title": {
+		"projectName": "Name",
+		"file": {
+			"required": "This field is required",
+			"invalidMobileNumber": "Enter valid mobile Number.",
+			"maxlength": "Characters Exceeded "
+		}
+	}
+}
